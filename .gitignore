@@ -1,0 +1,4 @@
+output/
+base_config.cfg
+*.spacy
+.vscode
